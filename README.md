@@ -1,1 +1,1 @@
-# CFG-Intro-to-Web-Development
+# Code First Girls Introduction to Web Development
